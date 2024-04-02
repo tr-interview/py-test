@@ -9,16 +9,16 @@ You will need to have a working installation of Python 3.9 or above
 Create a fork of this repository into your personal Github organisation and then checkout this fork locally.
 
 Create a python virtual environment 
-```python venv .venv ```
+```python3 -m venv .venv ```
 
 Activate the environment
 ```source .venv/bin/activate```
 
 Then install all the required dependancies of this project by running 
-```pip install -f requirements.txt```
+```pip install -r requirements.txt```
 
 Then you should be able to build this project with 
-```python github_api.py```
+```python3 github_api.py```
 
 
 # The Test
