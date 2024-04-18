@@ -5,11 +5,8 @@ This test is designed to test your Python coding skills. The basic project shoul
 ## The Rules
 You have 30 minutes for this test. Feel free to use Google and the official docs. Please don't use any AI code generating tools.
 
-## Pre-requisites
-You will need to have a working installation of Python 3.9 or above. This will be supplied to you as a Cloud9 IDE instance
-
 ## Getting started
-Create a fork of this repository into your personal Github organisation and then checkout this fork locally.
+Clone a copy of this repository into your local environment
 
 Create a python virtual environment 
 ```python3 -m venv .venv ```
@@ -20,7 +17,7 @@ Activate the environment
 Then install all the required dependancies of this project by running 
 ```pip install -r requirements.txt```
 
-Then you should be able to build this project with 
+Then you should be able to run this project with 
 ```python3 github_api.py```
 
 
