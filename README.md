@@ -28,8 +28,6 @@ Please write a script the will fetch the name of all of the private repositories
 
 We have supplied a Github personal access token which will give you access to this organisation via the API. 
 
-When you have completed the test locally, please commit your script back to your personal repository, you shoudl then provide us with a link to this repository so we can validate your script. 
-
 Please make sure that you follow security best practices and DO NOT commit any secrets back to Github. 
 
 ## Bonus Points
